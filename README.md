@@ -19,10 +19,5 @@ like leave it for the big companies.
 
 So, if you want to contribute please get in touch.
 
-# PT: Manifesto para Democracia no Facebook
-
-Em razão dos eventos recentes no mundo, eu gostaria de propor um projeto com a intenção de fazer do Facebook uma ferramenta de Democracia Liquida
-
-
 ### Members
 Diego Rodrigues, Founder - diego.mrodrigues@outlook.com
