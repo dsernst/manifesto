@@ -27,8 +27,13 @@ As mentioned previously, the Facebook will be the main point of experience, all 
 
 ### Facebook Integration
 
-The Facebook ID would be used to identify the users vote and if they could or not vote on topics discussed on a specific page.
-
+#### Requirements
+- The Facebook ID would be used to identify the users vote and if they could or not vote on topics discussed on a specific page.
+- The policy should be associated with a post from the Facebook
+- The should be dynamic in a way that the user could see a summary of the policy being voted
+- The user should click on call-to-action button and then vote on the policy page
+- The user should receive a message on his Facebok inbox showing his delegator has cast a vote
+- When someone cast a vote directly, we should be able to post it on Facebook
 ### Security and Privacy
 
 ### Auditing
