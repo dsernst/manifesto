@@ -27,6 +27,8 @@ As mentioned previously, the Facebook will be the main point of experience, all 
 
 ### Facebook Integration
 
+The Facebook ID would be used to identify the users vote and if they could or not vote on topics discussed on a specific page.
+
 ### Security and Privacy
 
 ### Auditing
