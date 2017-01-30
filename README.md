@@ -34,6 +34,7 @@ As mentioned previously, the Facebook will be the main point of experience, all 
 - The user should click on call-to-action button and then vote on the policy page
 - The user should receive a message on his Facebok inbox showing his delegator has cast a vote
 - When someone cast a vote directly, we should be able to post it on Facebook
+
 ### Security and Privacy
 
 ### Auditing
