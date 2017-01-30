@@ -1,18 +1,24 @@
 # Manifesto for Facebook Democracy
 
-In light of the recent world evens, I would like to propose a project with the intent of making the Facebook a Liquid Democracy tool. 
-Which means to make use of all availble platforms, features and APIs to create all functiolaties and experiences needed to run a 
-democratic voting process. This includes polls, discussion, direct voting, voting delegation and tools for transparency and accountability.
+The idea behind this manifesto is to create an open organization with the intent of providing, maintaning and audinting a democratic platform built upon the Facebook social network. Where pages would act as organizations providing users the capability of voting on issues that matter to them. Like universities, non-profit organizations, political parties and any type of organization which wants users to engage more with the decision making process in a way that is already familiar to them.
 
-The reason for using the Facebook as a platform come from its onipresence and impact on social matters, seem on the Fake News scandal
-and in many other ways its has been influencing the way we think. Better than ignoring the problem, I propose turning it to an amazing
-solution. Want it or not, Facebook is a political tool. And would be better that an open-source project reveal its full potential rather than someone political's ambitions or some company market's interest. Starting the narrative and proposing the solution may put the liquid democracy idea on the public's mind, and thats for itself is a huge step.
+To achieve this goal we would make the Facebook the center of the democratic experience, using all features and services provided by Facebook. However, all votes, delegations and auditing process would be externaly, so we can control the process over letting Facebook do the calculations. Also, because the UI affects a lot how users think and vote, we would display the issues and their disussions on a separated interface accessible via links shared on Facebook.
 
-I think the first step would be create an team and do a lot of research work, then start building some prototypes and testing on small 
-organizations. There are many solutions out there, but none has its focus on integrating with Facebook. So we would first think about
-how to adapt some solutions already developed, DemocracyOS, LiquidFeedback, for example, and then see what fits better for the Facebook User.
+We expect that with that we may be able to spread the idea of Liquid Democracy and make it a part of the everyday life. Introducing people to a new platform is always difficult, so why not make use of the existing ones? And because of its spread and influence we think that Facebook is the perfect one for this.
 
-So, if you want to contribute to the discussion, please get in touch.
+## Draft
 
-### Members
+I would like to present a draft on how to make this proposal a reality. The project is on its embrionary stage, so don't expect that all solutions would be presented here, on the contrary, I am proposing a discussion so we can figure out the problems before starting writing any software.
+
+### User Interface and Experience
+
+### Facebook Integration
+
+### Security and Privacy
+
+### Auditing
+
+### Open-Source and Organization Goals
+
+## Members
 Diego Rodrigues, Founder - diego.mrodrigues@outlook.com
