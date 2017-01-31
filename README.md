@@ -6,6 +6,12 @@ To achieve this goal we would make the Facebook the center of the democratic exp
 
 We expect that with that we may be able to spread the idea of Liquid Democracy and make it a part of the everyday life. Introducing people to a new platform is always difficult, so why not make use of the existing ones? And because of its spread and influence we think that Facebook is the perfect one for this.
 
+## Inspirations
+
+The idea was inspired by the current destabilization of the democratic order that is happening on many western nations, where is becoming aparently that we must rethink the way we think and act about social issues. Another factor that motivates the creation of this project is the impact that Facebook had on the 2016 elections and the speculation about Mark Zuckenberg's political ambitions.
+
+This made me belive that is time to introduce the idea of Liquid Democracy to the general public and that making it a part of the Facebook engagement experience would be the first and the most important step.
+
 ## Draft
 
 I would like to present a draft on how to make this proposal a reality. The project is on its embrionary stage, so don't expect that all solutions would be presented here, on the contrary, I am proposing a discussion so we can figure out the problems before starting writing any software.
@@ -27,7 +33,10 @@ As mentioned previously, the Facebook will be the main point of experience, all 
 
 ### Facebook Integration
 
+In order to integrate with Facebook and still providing all functionalities needed to run a liquid democracy system, I think that the steps needed to be taken are the following:
+
 #### Requirements
+
 - The Facebook ID would be used to identify the users vote and if they could or not vote on topics discussed on a specific page.
 - The policy should be associated with a post from the Facebook
 - The should be dynamic in a way that the user could see a summary of the policy being voted
