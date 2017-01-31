@@ -86,3 +86,4 @@ Security and privary are the main issue when dealing with digital voting, and th
 
 ## Members
 Diego Rodrigues, Founder - diego.mrodrigues@outlook.com
+David Ernst – david@liquid.vote
