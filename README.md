@@ -46,6 +46,14 @@ In order to integrate with Facebook and still providing all functionalities need
 
 ### Security and Privacy
 
+Security and privary are the main issue when dealing with digital voting, and they are more aggravated when you're dealing with a Social Network that is runned by a corporation with its on agenda. So, in order to build the best democratic system, I think that the steps needed to be taken are the following:
+
+#### Requirements
+
+- All votes will visible only by the one who casted it, unless he don't want it so
+- All delegated votes should be seen by the one who delegated it
+- The delegates voting records on that page should be visible to their delegators
+
 ### Auditing
 
 ### Open-Source and Organization Goals
