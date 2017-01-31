@@ -1,16 +1,14 @@
 # Manifesto for Facebook Democracy
 
-The idea behind this manifesto is to create an open organization with the intent of providing, maintaning and auditing a democratic platform built upon the Facebook social network. Where pages would act as organizations providing users the capability of voting on issues that matter to them. Like universities, non-profit organizations, political parties and any type of organization which wants users to engage more with the decision making process in a way that is already familiar to them.
+The idea behind this manifesto is to create an open organization with the intent of providing, maintaning and auditing a democratic platform built on top of the Facebook social network. Where pages would act as organizations providing users the capability of voting on proposals that matter to them. Like universities, non-profit organizations, political parties and any type of organization which wants users to engage more on a decision making process in a way that is already familiar to them.
 
-To achieve this goal we would make the Facebook the center of the democratic experience, using all features and services provided by Facebook. However, all votes, delegations and auditing process would be externaly, so we can control the process over letting Facebook do the calculations. Also, because the UI affects a lot how users think and vote, we would display the issues and their disussions on a separated interface accessible via links shared on Facebook.
+To achieve this goal we would make the Facebook the center of the democratic experience, using all features and services provided by them. However, all votes, delegations and auditing process would be externaly, so we can control the process over letting them do the calculations. Also, because the UI affects a lot how users think and vote, we would display the proposals and their disussions on a separated light interface, accessible via links shared on Facebook.
 
-We expect that with that we may be able to spread the idea of Liquid Democracy and make it a part of the everyday life. Introducing people to a new platform is always difficult, so why not make use of the existing ones? And because of its spread and influence we think that Facebook is the perfect one for this.
+I expect that with that we may be able to spread the idea of Liquid Democracy and make it a part of the general public's everyday life. Introducing people to a new platform is always difficult, so why not make use of the existing ones? And because of its spread and influence, I believe that Facebook is the perfect one for this.
 
 ## Inspirations
 
-The idea was inspired by the current destabilization of the democratic order that is happening on many western nations, where is becoming aparently that we must rethink the way we think and act about social issues. Another factor that motivates the creation of this project is the impact that Facebook had on the 2016 elections and the speculation about Mark Zuckenberg's political ambitions.
-
-This made me belive that is time to introduce the idea of Liquid Democracy to the general public and that making it a part of the Facebook engagement experience would be the first and the most important step.
+The idea was inspired by the current destabilization of the democratic order that is happening on many western nations, where is becoming aparently that we must rethink the way we think and act about social issues. Another factor that motivates the creation of this project is the impact that Facebook had on the 2016 elections and the speculation about Mark Zuckenberg's political ambitions. This made me belive that is time to introduce the idea of Liquid Democracy to the general public and that making it a part of the Facebook engagement experience would be the first and the most important step.
 
 ## Draft
 
