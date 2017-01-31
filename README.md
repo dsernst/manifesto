@@ -16,6 +16,34 @@ This made me belive that is time to introduce the idea of Liquid Democracy to th
 
 I would like to present a draft on how to make this proposal a reality. The project is on its embrionary stage, so don't expect that all solutions would be presented here, on the contrary, I am proposing a discussion so we can figure out the problems before starting writing any software.
 
+### Main Components
+
+In order to start talking about the implementation of such system, first I will list and explain the main components that I indentified so far.
+
+#### The Facebook User
+
+The user would be basically the Facebook profile and its ID, which will serve as a traceable way to indentify its voting record. In order to restrain and validate who will vote on a certain issue, the user would be verified by a passcode provided by the Facebook page. The passcode generation would be done on the platform as the page wishes.
+
+#### The Facebook Page
+
+The page will act as an organization, deciding how the democratic will took place. It can opt for a open discussion, where users can define their issues and have more control over the process, or controlling which issues are being voted upon. This options may vary from subject to subject, or be a default option.
+
+#### The Facebook Post
+
+The post will serve as an subject area being voted, where the page will decide the configurations of it. Such as the issues being voted, how long the voting process will take. The post will be dynamic using webviews, where the users will be able to see a summary of the voting process and being able to click on a call-to-action button which will redirect him to a page with all the arguments behind the proposal.
+
+#### The Issue
+
+Issues are the initiatives competing for votes. Besides the summary displayed on Facebook, the issues are controlled and inputed by the platform.
+
+#### The Vote
+
+Votes are a relation between the facebook ID, the page, the post and the issue. Which should be traceable by the one who cast it, and the audinting organization. 
+
+#### The Delegation
+
+Delegations are made by users of the same page and the delegation will hold for that one post only. The delegation will occur when a user clicks on a call-to-action button linked to the plaftorm, which will identify the user delegating and the one being delegated.
+
 ### User Interface and Experience
 
 As mentioned previously, the Facebook will be the main point of experience, all actions and notifications will derive and be presented on it. Where the page will act as the organization, the users as the voters and delegators and the Facebook as the voting system. In order to achieve that, I have thinked about this requirements:
